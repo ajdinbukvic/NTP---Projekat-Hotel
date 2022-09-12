@@ -1,0 +1,13 @@
+ID	Ime		Prezime		Pozicija	Plata
+1 	Amir 		Saric 		1		600
+2 	Alen 		Husic 		4 		1200
+3 	Kerim 		Tasic 		3 		700
+4 	Senad 		Zuric 		2 		500
+5 	Kenan 		Rasic 		5 		900
+6 	Edin 		Dukic 		3 		700
+7 	Harun 		Sivic 		1 		600
+8 	Faris 		Kalic 		2 		500
+9 	Ahmed 		Bilic 		5 		900
+10 	Rijad 		Ahmic 		3 		700
+11 	Semir 		Jukic 		2	 	500
+12	Eldar		Kadric		1		600

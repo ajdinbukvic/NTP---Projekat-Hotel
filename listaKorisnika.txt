@@ -1,0 +1,4 @@
+Ime		Prezime		Spol	Username	Sifra
+Ajdin		Bukvic		muski	toreno		12345678
+Emir		Zambakovic	muski	zexach		emir1234
+Muamer		Alickovic	muski	am2k		muamer123
